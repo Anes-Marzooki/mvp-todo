@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A <b>MERN</b> stack "CRU-d" app.<br />
 
-<i>A first timer touching bootstrap, [axios](https://yarnpkg.com/en/package/axios) and [yarn](https://yarnpkg.com/en/)(wich happens to be a better alternative for npm)</i> <br />
+<i>A first timer touching bootstrap, [axios](https://yarnpkg.com/en/package/axios) and [yarn](https://yarnpkg.com/en/)(wich happens to be a better alternative for npm) and getting close and personal with react <Router></i> <br />
 ## Available Scripts
 
 In the project directory, you can run:
