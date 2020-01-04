@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+A MERN stack "CRUD" app. 
+{first time touching bootstrap, axios and yarn(wich happens to be a better alternative for npm)}
 ## Available Scripts
 
 In the project directory, you can run:
